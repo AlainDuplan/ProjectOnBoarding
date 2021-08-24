@@ -1,0 +1,16 @@
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\bin\Debug\net5.0\SockPairs.exe
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\bin\Debug\net5.0\SockPairs.deps.json
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\bin\Debug\net5.0\SockPairs.runtimeconfig.json
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\bin\Debug\net5.0\SockPairs.runtimeconfig.dev.json
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\bin\Debug\net5.0\SockPairs.dll
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\bin\Debug\net5.0\ref\SockPairs.dll
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\bin\Debug\net5.0\SockPairs.pdb
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\obj\Debug\net5.0\SockPairs.csproj.AssemblyReference.cache
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\obj\Debug\net5.0\SockPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\obj\Debug\net5.0\SockPairs.AssemblyInfoInputs.cache
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\obj\Debug\net5.0\SockPairs.AssemblyInfo.cs
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\obj\Debug\net5.0\SockPairs.csproj.CoreCompileInputs.cache
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\obj\Debug\net5.0\SockPairs.dll
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\obj\Debug\net5.0\ref\SockPairs.dll
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\obj\Debug\net5.0\SockPairs.pdb
+C:\Users\ALAIN\Documents\Revature\ProjectOnBoarding\SockPairs\obj\Debug\net5.0\SockPairs.genruntimeconfig.cache
