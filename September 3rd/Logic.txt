@@ -1,0 +1,7 @@
+The logical answer would be D.
+
+This can be deduced that within 84 hours, the time fell behind by 12 minutes.
+This means every 7 hours, the watch falls a minute.
+At the beggining on the duration, the watch was 5 minutes ahead,
+therefore to display the right time, it must drop 5 minutes, which happens in 35 hours.
+35 hours from Thursday at 8pm is 11 A.M. on Friday.
